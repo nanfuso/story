@@ -1,1 +1,5 @@
-"Natale learned how to code. She liked coding. She is now a coder.""
+"Natale learned how to code. She liked coding. She is now a coder."
+
+def cute_coders
+    return "Natale and Addie"
+end
